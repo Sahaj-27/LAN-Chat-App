@@ -1,1 +1,1 @@
-# LAN-Chat-App
+# LANChatApp
